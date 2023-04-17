@@ -1,0 +1,20 @@
+.no-margin {
+  margin: 0 !important;
+}
+
+.tiny-margin {
+  padding: 0.25rem !important;
+}
+
+.small-margin {
+  margin: 0.5rem !important;
+}
+
+.medium-margin,
+.margin {
+  margin: 1rem !important;
+}
+
+.large-margin {
+  margin: 1.5rem !important;
+}

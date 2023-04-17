@@ -1,0 +1,36 @@
+.small-width {
+  width: 12rem !important;
+  max-width: 100%;
+}
+
+.medium-width {
+  width: 24rem !important;
+  max-width: 100%;
+}
+
+.large-width {
+  width: 36rem !important;
+  max-width: 100%;
+}
+
+.small-height {
+  height: 12rem !important;
+}
+
+.medium-height {
+  height: 24rem !important;
+}
+
+.large-height {
+  height: 36rem !important;
+}
+
+.wrap {
+  display: block;
+  white-space: normal;
+}
+
+.no-wrap:not(.dropdown) {
+  display: flex;
+  white-space: nowrap;
+}

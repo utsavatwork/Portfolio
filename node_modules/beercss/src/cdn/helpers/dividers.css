@@ -1,0 +1,20 @@
+.divider,
+.small-divider,
+.medium-divider,
+.large-divider {
+  border-bottom: 0.0625rem solid var(--outline);
+  display: block;
+  margin: 0 !important;
+}
+
+.medium-divider {
+  margin: 1rem 0 !important;
+}
+
+.large-divider {
+  margin: 1.5rem 0 !important;
+}
+
+.small-divider {
+  margin: 0.5rem 0 !important;
+}
